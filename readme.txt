@@ -8,3 +8,4 @@ Creating a new branch is very quick & simple.
 Creating a new branch is very quick and simple.
 >>>>>>> featurie1
 Creating a new branch is very quick and simple.
+build dev
